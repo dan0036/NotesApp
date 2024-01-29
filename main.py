@@ -1,3 +1,4 @@
+import controller
 
 if __name__ == '__main__':
-    print('Nothing\'s done')
+    controller.start()
